@@ -104,7 +104,7 @@ public class PalindromeCheckerApp {
             System.out.println("Result: Not a Palindrome.");
         }
     }
-g
+
     // Ignore Spaces & Special Characters
     public static void checkIgnoreSpecialCharacters(Scanner scanner) {
         System.out.print("Enter a string: ");
